@@ -6,7 +6,7 @@
 
 ### 基础
 
-过渡是上下文xian
+过渡是上下文
 
 ```swift
 import SwiftUI

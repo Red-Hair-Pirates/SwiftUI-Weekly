@@ -86,11 +86,11 @@ As you can see, we can easily convert our binding into animatable binding by cal
 
 如你所见，我们可以容易的转换我们 的 binding 动画的binding 通过调用动画方法在它上面。这个方法包装了所有变化绑定至一个 animation 块中。你可以传递动画的设置以方法参数方式。更多关于 bindings 你可以看我[之前的文章](https://swiftwithmajid.com/2019/06/12/understanding-property-wrappers-in-swiftui)。
 
-过渡
+#### 过渡动画
 
 As I said before, SwiftUI uses fade in and fade out transition by default, but we can apply any other transition we want. Let’s replace fading with moving.
 
-像我上面说的，SwiftUI 使用默认的淡入淡出效果，不过我们也可以使用我们想要的其他过渡效果。下面让我们把淡入淡出效果换成移动效果。
+像我上面说的，SwiftUI 默认使用的淡入淡出效果，不过我们也可以使用我们想要的其他动画效果。下面让我们把淡入淡出效果换成移动效果。
 
 ```swift
 struct ContentView : View {

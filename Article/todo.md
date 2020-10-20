@@ -14,7 +14,9 @@
 
 [Migrating Asynchronous Code to Combine](https://www.kiloloco.com/articles/007-migrating-asynchronous-code-to-combine/)
 
+[What does @main do in Swift 5.3?](https://useyourloaf.com/blog/what-does-main-do-in-swift-5.3/)
 
+[Mastering GroupBox in SwiftUI](https://swiftwithmajid.com/2020/10/15/mastering-groupbox-in-swiftui/)
 
 ### Authors
 

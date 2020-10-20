@@ -1,0 +1,1 @@
+# What does @main do in Swift 5.3?
